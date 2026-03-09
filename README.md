@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Leonardo Alves
 
-🎓 Estudante de Engenharia de Software na PUC Campinas (2º semestre)
+🎓 Estudante de Engenharia de Software na PUC Campinas (3º semestre)
 
 📍 Salto, SP, Brasil
 
