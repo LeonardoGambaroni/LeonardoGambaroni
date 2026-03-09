@@ -18,8 +18,8 @@ Frances Basico
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- **Linguagens**: JavaScript, HTML, CSS, Python, C, SQL
-- **Ferramentas**: Github, MySQL, WorkBench
+- **Linguagens**: JavaScript, HTML, CSS, Python, C, SQL, Dart
+- **Ferramentas**: Github, MySQL, WorkBench, Visual Studio Code
 
 ---
 
