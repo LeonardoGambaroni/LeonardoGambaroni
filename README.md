@@ -71,19 +71,19 @@ Projeto Integrador II desenvolvido em equipe com foco em soluções de software.
 <p align="center">
 
 <a href="mailto:leogambaroni@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 <a href="https://github.com/SEUUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/leonardo-gambaroni-alves-ba88b7369/">
-<img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Alves-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://www.instagram.com/leozinho.ga/">
-<img src="https://img.shields.io/badge/Instagram-@leozinho.ga-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 </p>
