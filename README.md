@@ -1,95 +1,25 @@
-<h1 align="center">👋 Olá, eu sou o Leonardo Alves</h1>
-
-<h3 align="center">🎓 Software Engineering Student | 💻 Future Developer | 🚀 Tech Enthusiast</h3>
+# 📫 Contatos
 
 <p align="center">
-📍 Salto, São Paulo - Brasil <br>
-🎓 Engenharia de Software — PUC Campinas
-</p>
 
----
+<a href="mailto:leogambaroni@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# 🚀 Sobre mim
+<a href="https://github.com/SEUUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Sou estudante de **Engenharia de Software na PUC Campinas**, atualmente no **3º semestre**.
+<a href="https://www.linkedin.com/in/leonardo-gambaroni-alves-ba88b7369/">
+<img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Alves-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Apaixonado por tecnologia, programação e desenvolvimento de software.  
-Atualmente estou focado em **aprender novas linguagens, boas práticas de desenvolvimento e construção de projetos reais**.
+<a href="https://www.instagram.com/leozinho.ga/">
+<img src="https://img.shields.io/badge/Instagram-@leozinho.ga-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-🧠 Sempre buscando evoluir como desenvolvedor.
+<a>
+<img src="https://img.shields.io/badge/WhatsApp-11%2098787--1116-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-🌎 Idiomas:
-
-🇬🇧 Inglês — Fluente  
-🇫🇷 Francês — Básico  
-
----
-
-# 🛠️ Tecnologias que estou aprendendo
-
-### 💻 Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css,python,c,dart,sql" />
-</p>
-
-### ⚙️ Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
-
----
-
-# 📚 Projetos Acadêmicos
-
-📦 **Tec-TI 101/25**  
-Repositório da disciplina de Tecnologias da Informação — turma 101 (2025).
-
-📦 **PI II ES Time 11**  
-Projeto Integrador II desenvolvido em equipe com foco em **soluções de software**.
-
----
-
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 Streak de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Contatos
-
-📧 Email  
-leogambaroni@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/leonardo-gambaroni-alves-ba88b7369/
-
-🐙 GitHub  
-https://github.com/SEUUSERNAME
-
-📱 Telefone  
-(11) 98787-1116
-
----
-
-# 🚀 Objetivo
-
-Atualmente estou em busca de **oportunidades de estágio em desenvolvimento de software** para aplicar meus conhecimentos e evoluir profissionalmente.
-
----
-
-<p align="center">
-💻 "Construindo conhecimento linha por linha de código."
 </p>
