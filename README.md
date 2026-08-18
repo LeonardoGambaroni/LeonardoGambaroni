@@ -11,7 +11,7 @@
 
 # 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Software na PUC Campinas**, atualmente no **3º semestre**.
+Sou estudante de **Engenharia de Software na PUC Campinas**, atualmente no **4º semestre**.
 
 Tenho grande interesse em **desenvolvimento de software, programação e tecnologia**.  
 Estou sempre buscando **evoluir minhas habilidades técnicas e desenvolver projetos cada vez mais completos**.
